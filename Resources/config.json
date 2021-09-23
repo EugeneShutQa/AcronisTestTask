@@ -1,0 +1,4 @@
+{
+ "Engine": "API",
+ "API_HOST": "https://petstore.swagger.io/v2/"
+}
